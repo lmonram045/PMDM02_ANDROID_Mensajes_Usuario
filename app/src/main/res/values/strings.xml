@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PMDM02_ANDROID_Mensajes_Usuario</string>
+
+    <string name="crearusuario">Crear usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="grabar">Grabar</string>
+
+    <string name="confirmar">Confirmar</string>
+    <string name="pregunta">¿Desea guardar?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="registroguardado">Registro guardado!!!</string>
+    <string name="registrocancelado">Se cancelan los cambios</string>
+
+    <string name="validando">Validando</string>
+    <string name="guardando">Guardando cambios</string>
+    <string name="anular">Anular</string>
+
+    <string name="requerido">Campo requerido</string>
+</resources>
